@@ -1,32 +1,3 @@
-# import src
-
-# obj = src.person.Person()
-
-#import numpy as np
-# from src.person import Person
-# from src.car import Car
-
-# if __name__ == "__main__":
-#     obj = Person("Kunal","Jaiswal")
-#     obj.display()
-
-#     car_obj = Car("BMW",1999)
-#     car_obj.display()
-
-## positional and keyword Arguments
-# def hello(*args, **kwargs):
-#     print(args)
-#     print(kwargs)
-#list()
-
-#if __name__ == "__main__"
-
-
-
-
-
-#-------------------------------------------------------
-
 from tkinter import Tk, Button,Entry , StringVar
 
 
